@@ -7,12 +7,12 @@ Dana contracted me to assist her in making a webpage to house her UFO data as we
 ## Results <br>
 Dana's new table now allows users to search based on five key areas: date, city, state, country, and/or shape. They may all be utilized together or separately. <br>
 
-![Table Search Function](tableCriteria.png) <br>
+![Table Search Function](Images/tableCriteria.png) <br>
 *Figure 1: Screenshot of "Filter Search" from Dana's webpage.* <br>
 
 With this wonderful addition to her website, users can now sift through the numerous UFO sightings with ease! They can use just one of the search boxes shown, or multiple at the same time! <br>
 
-![Example of Search Function](searchExample.png) <br>
+![Example of Search Function](Images/searchExample.png) <br>
 *Figure 2: Image displaying search result.* <br>
 
 Figure 2 clearly shows a search result that was achieved using multiple entries, but not all. The bottom box listing the shape of the UFO still shows its placeholder entry "circle". This does not match the shape listed in our search result. All other search boxes were utilized to isolate this one sighting entry in Bonita, CA on January 1, 2010. <br><br>
